@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/eslamSaeed12.io/quotime/precache-manifest.44a88a5bc47a252b613c7bb5ba275300.js"
+  "/eslamSaeed12.io/quotime/precache-manifest.ec445b058bd820783b09131c24d703db.js"
 );
 
 self.addEventListener('message', (event) => {
