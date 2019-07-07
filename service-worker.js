@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/eslamSaeed12/quotime/precache-manifest.342232d173e602be7de2efeb62cd9bcd.js"
+  "/eslamSaeed12/precache-manifest.f7479a60fa7abf53eca7e45fb26a4bf1.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -33,7 +33,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/eslamSaeed12/quotime/index.html"), {
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/eslamSaeed12/index.html"), {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

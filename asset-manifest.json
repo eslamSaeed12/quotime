@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/eslamSaeed12/quotime/static/css/main.666918ac.chunk.css",
-    "main.js": "/eslamSaeed12/quotime/static/js/main.c74f96b6.chunk.js",
-    "main.js.map": "/eslamSaeed12/quotime/static/js/main.c74f96b6.chunk.js.map",
-    "runtime~main.js": "/eslamSaeed12/quotime/static/js/runtime~main.6ceb6b0f.js",
-    "runtime~main.js.map": "/eslamSaeed12/quotime/static/js/runtime~main.6ceb6b0f.js.map",
-    "static/js/2.4fd8e042.chunk.js": "/eslamSaeed12/quotime/static/js/2.4fd8e042.chunk.js",
-    "static/js/2.4fd8e042.chunk.js.map": "/eslamSaeed12/quotime/static/js/2.4fd8e042.chunk.js.map",
-    "index.html": "/eslamSaeed12/quotime/index.html",
-    "precache-manifest.342232d173e602be7de2efeb62cd9bcd.js": "/eslamSaeed12/quotime/precache-manifest.342232d173e602be7de2efeb62cd9bcd.js",
-    "service-worker.js": "/eslamSaeed12/quotime/service-worker.js",
-    "static/css/main.666918ac.chunk.css.map": "/eslamSaeed12/quotime/static/css/main.666918ac.chunk.css.map",
-    "static/media/Main.scss": "/eslamSaeed12/quotime/static/media/Raleway-SemiBold.6ec58d1e.ttf",
-    "static/media/branch-clear-deep.jpg": "/eslamSaeed12/quotime/static/media/branch-clear-deep.cc96262b.jpg",
-    "static/media/click.mp3": "/eslamSaeed12/quotime/static/media/click.21585b94.mp3"
+    "main.css": "/eslamSaeed12/static/css/main.0e6a1a28.chunk.css",
+    "main.js": "/eslamSaeed12/static/js/main.c74f96b6.chunk.js",
+    "main.js.map": "/eslamSaeed12/static/js/main.c74f96b6.chunk.js.map",
+    "runtime~main.js": "/eslamSaeed12/static/js/runtime~main.c79daa1c.js",
+    "runtime~main.js.map": "/eslamSaeed12/static/js/runtime~main.c79daa1c.js.map",
+    "static/js/2.bb6eb070.chunk.js": "/eslamSaeed12/static/js/2.bb6eb070.chunk.js",
+    "static/js/2.bb6eb070.chunk.js.map": "/eslamSaeed12/static/js/2.bb6eb070.chunk.js.map",
+    "index.html": "/eslamSaeed12/index.html",
+    "precache-manifest.f7479a60fa7abf53eca7e45fb26a4bf1.js": "/eslamSaeed12/precache-manifest.f7479a60fa7abf53eca7e45fb26a4bf1.js",
+    "service-worker.js": "/eslamSaeed12/service-worker.js",
+    "static/css/main.0e6a1a28.chunk.css.map": "/eslamSaeed12/static/css/main.0e6a1a28.chunk.css.map",
+    "static/media/Main.scss": "/eslamSaeed12/static/media/Raleway-SemiBold.6ec58d1e.ttf",
+    "static/media/branch-clear-deep.jpg": "/eslamSaeed12/static/media/branch-clear-deep.cc96262b.jpg",
+    "static/media/click.mp3": "/eslamSaeed12/static/media/click.21585b94.mp3"
   }
 }
