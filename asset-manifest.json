@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/quotime/static/css/main.3584e559.chunk.css",
-    "main.js": "/quotime/static/js/main.d1314ecc.chunk.js",
-    "main.js.map": "/quotime/static/js/main.d1314ecc.chunk.js.map",
+    "main.js": "/quotime/static/js/main.415a853e.chunk.js",
+    "main.js.map": "/quotime/static/js/main.415a853e.chunk.js.map",
     "runtime~main.js": "/quotime/static/js/runtime~main.a6c5a61e.js",
     "runtime~main.js.map": "/quotime/static/js/runtime~main.a6c5a61e.js.map",
     "static/js/2.d65002ec.chunk.js": "/quotime/static/js/2.d65002ec.chunk.js",
     "static/js/2.d65002ec.chunk.js.map": "/quotime/static/js/2.d65002ec.chunk.js.map",
     "index.html": "/quotime/index.html",
-    "precache-manifest.9e964970910348b953f2a588f59d9cac.js": "/quotime/precache-manifest.9e964970910348b953f2a588f59d9cac.js",
+    "precache-manifest.d274c80f3abaa85962c4024f95fcfc68.js": "/quotime/precache-manifest.d274c80f3abaa85962c4024f95fcfc68.js",
     "service-worker.js": "/quotime/service-worker.js",
     "static/css/main.3584e559.chunk.css.map": "/quotime/static/css/main.3584e559.chunk.css.map",
     "static/media/Main.scss": "/quotime/static/media/Raleway-SemiBold.6ec58d1e.ttf",
