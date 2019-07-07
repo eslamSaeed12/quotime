@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a4707099d9bd3f35d22567c5a7a8c967",
+    "revision": "0090159e98202286eeeaacbefde289d5",
     "url": "/quotime/index.html"
   },
   {
