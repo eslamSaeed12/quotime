@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e69461b1d6364d26d05c641578dfca72",
+    "revision": "40553d8e12ca231d55ad490082638d41",
     "url": "/eslamSaeed12.io/quotime/index.html"
   },
   {
-    "revision": "57c24b078a751ff1f241",
+    "revision": "3c599a528d53b0e9d763",
     "url": "/eslamSaeed12.io/quotime/static/css/main.cac84e34.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/eslamSaeed12.io/quotime/static/js/2.12391272.chunk.js"
   },
   {
-    "revision": "57c24b078a751ff1f241",
-    "url": "/eslamSaeed12.io/quotime/static/js/main.c74f96b6.chunk.js"
+    "revision": "3c599a528d53b0e9d763",
+    "url": "/eslamSaeed12.io/quotime/static/js/main.fd022db1.chunk.js"
   },
   {
     "revision": "3f6f843d955045ae6e5a",
