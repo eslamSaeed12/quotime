@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/eslamsaeed12.io/quotime/static/css/main.43618568.chunk.css",
-    "main.js": "/eslamsaeed12.io/quotime/static/js/main.fc026f38.chunk.js",
-    "main.js.map": "/eslamsaeed12.io/quotime/static/js/main.fc026f38.chunk.js.map",
-    "runtime~main.js": "/eslamsaeed12.io/quotime/static/js/runtime~main.e495fd0b.js",
-    "runtime~main.js.map": "/eslamsaeed12.io/quotime/static/js/runtime~main.e495fd0b.js.map",
-    "static/js/2.3301b755.chunk.js": "/eslamsaeed12.io/quotime/static/js/2.3301b755.chunk.js",
-    "static/js/2.3301b755.chunk.js.map": "/eslamsaeed12.io/quotime/static/js/2.3301b755.chunk.js.map",
-    "index.html": "/eslamsaeed12.io/quotime/index.html",
-    "precache-manifest.5d95950266c64ec48e8eac1545a43124.js": "/eslamsaeed12.io/quotime/precache-manifest.5d95950266c64ec48e8eac1545a43124.js",
-    "service-worker.js": "/eslamsaeed12.io/quotime/service-worker.js",
-    "static/css/main.43618568.chunk.css.map": "/eslamsaeed12.io/quotime/static/css/main.43618568.chunk.css.map",
-    "static/media/Main.scss": "/eslamsaeed12.io/quotime/static/media/Raleway-SemiBold.6ec58d1e.ttf",
-    "static/media/branch-clear-deep.jpg": "/eslamsaeed12.io/quotime/static/media/branch-clear-deep.cc96262b.jpg",
-    "static/media/click.mp3": "/eslamsaeed12.io/quotime/static/media/click.21585b94.mp3"
+    "main.css": "/eslamSaeed12.io/quotime/static/css/main.cac84e34.chunk.css",
+    "main.js": "/eslamSaeed12.io/quotime/static/js/main.fc026f38.chunk.js",
+    "main.js.map": "/eslamSaeed12.io/quotime/static/js/main.fc026f38.chunk.js.map",
+    "runtime~main.js": "/eslamSaeed12.io/quotime/static/js/runtime~main.48992fdc.js",
+    "runtime~main.js.map": "/eslamSaeed12.io/quotime/static/js/runtime~main.48992fdc.js.map",
+    "static/js/2.12391272.chunk.js": "/eslamSaeed12.io/quotime/static/js/2.12391272.chunk.js",
+    "static/js/2.12391272.chunk.js.map": "/eslamSaeed12.io/quotime/static/js/2.12391272.chunk.js.map",
+    "index.html": "/eslamSaeed12.io/quotime/index.html",
+    "precache-manifest.44a88a5bc47a252b613c7bb5ba275300.js": "/eslamSaeed12.io/quotime/precache-manifest.44a88a5bc47a252b613c7bb5ba275300.js",
+    "service-worker.js": "/eslamSaeed12.io/quotime/service-worker.js",
+    "static/css/main.cac84e34.chunk.css.map": "/eslamSaeed12.io/quotime/static/css/main.cac84e34.chunk.css.map",
+    "static/media/Main.scss": "/eslamSaeed12.io/quotime/static/media/Raleway-SemiBold.6ec58d1e.ttf",
+    "static/media/branch-clear-deep.jpg": "/eslamSaeed12.io/quotime/static/media/branch-clear-deep.cc96262b.jpg",
+    "static/media/click.mp3": "/eslamSaeed12.io/quotime/static/media/click.21585b94.mp3"
   }
 }
