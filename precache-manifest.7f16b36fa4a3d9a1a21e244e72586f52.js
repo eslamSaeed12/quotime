@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "015f477cdbdccdcb872960fab1236be9",
+    "revision": "4c86788d30c536e9359cf36fbf167772",
     "url": "/quotime/index.html"
   },
   {
-    "revision": "bd41aba9379a71bd0402",
-    "url": "/quotime/static/css/main.2e433bac.chunk.css"
+    "revision": "20238d5efe380d302a6b",
+    "url": "/quotime/static/css/main.ffacf55a.chunk.css"
   },
   {
     "revision": "d54cb529fc2b1706f8a5",
     "url": "/quotime/static/js/2.1ae4b37a.chunk.js"
   },
   {
-    "revision": "bd41aba9379a71bd0402",
+    "revision": "20238d5efe380d302a6b",
     "url": "/quotime/static/js/main.08218d73.chunk.js"
   },
   {
